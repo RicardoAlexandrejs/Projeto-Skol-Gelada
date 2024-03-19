@@ -29,3 +29,4 @@ https://github.com/RicardoAlexandrejs/Projeto-Skol-Gelada/assets/158041416/68dd0
             </td>
         </tr>
     </table>
+Link do projeto: https://ricardoalexandrejs.github.io/Projeto-Skol-Gelada/
